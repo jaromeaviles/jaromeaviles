@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer with more than 3 years of experience in building and maintaining <br>responsive websites. Proficient in HTML, CSS and JavaScript plus modern frameworks like <br>Vue JS. Passionate about learning and working with different technologies.
+Frontend Developer with more than 4 years of experience in building and maintaining <br>responsive websites. Proficient in HTML, CSS and JavaScript plus modern frameworks like <br>Vue JS. Passionate about learning and working with different technologies.
 
 
 ## 🌐 Socials:
